@@ -11,7 +11,8 @@ To run this app locally on your computer, follow these steps:
 2. Ensure Python 3.x (3.10 preferred) on your computer.
 3. Install the required packages listed in requirements.txt.
 4. Create an account on OpenWeatherMap and get an API key.
-5. Use API key as `API_KEY=<your-api-key>`.
+5. Replace `'API_KEY'` in `backend.py` with your API key (you can use dotenv library, 
+but it is not necessary unless you're going to share your code)
 6. Run `streamlit run frontend.py` in your terminal to start the app
 
 `technologies used:`
