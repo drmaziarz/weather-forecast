@@ -23,3 +23,6 @@ but it is not necessary unless you're going to share your code).
 `version 1.0`
 
 `22.03.2023`
+
+![img.png](img.png)
+![img_1.png](img_1.png)
