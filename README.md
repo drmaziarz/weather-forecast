@@ -4,7 +4,7 @@ This app forecasts weather using free weather API.
 User can check weather for next 1-5 days, choosing to view either the temperature or
 the sky condition for the selected location and number of forecast days.
 
-Visit [this link](http://www.onet.pl) to use this app online.
+Visit [this link](https://drmaziarz-weather-forecast-frontend-ki01ow.streamlit.app/) to use this app online.
 
 To run this app locally on your computer, follow these steps:
 1. Clone this repository to your local machine.
@@ -12,8 +12,8 @@ To run this app locally on your computer, follow these steps:
 3. Install the required packages listed in requirements.txt.
 4. Create an account on OpenWeatherMap and get an API key.
 5. Replace `'API_KEY'` in `backend.py` with your API key (you can use dotenv library, 
-but it is not necessary unless you're going to share your code)
-6. Run `streamlit run frontend.py` in your terminal to start the app
+but it is not necessary unless you're going to share your code).
+6. Run `streamlit run frontend.py` in your terminal to start the app.
 
 `technologies used:`
 `Python`
